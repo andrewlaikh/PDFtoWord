@@ -6,7 +6,7 @@ Please note that to run the script the following dependencies need to be install
 2. Python Docx: https://python-docx.readthedocs.io/en/latest/
 3. Python 3 
 
-To run, simply run the command in terminal in the folder with the python script: 
+To run, simply run the command in below terminal/powershell. Terminal/Powershell should be in the folder with the python script and PDF file:
 
 `python3 convert.py filename.pdf `
 
