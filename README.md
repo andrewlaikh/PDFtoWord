@@ -12,4 +12,5 @@ To run, simply run the command in below terminal/powershell. Terminal/Powershell
 
 *replace filename with the name of pdf file. 
 
+Example input/output: 
 ![alt text](https://github.com/andrewlaikh/PDFtoWord/blob/master/demo.png)
